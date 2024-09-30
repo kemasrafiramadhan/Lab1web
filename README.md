@@ -27,6 +27,6 @@
   ![img 9](screenshot/10.png)
 # 6. Menambahkan Hyperlink pada dokumen tersebut
 - Gambar1
-  ![img 10](screenshot/11.png)
+  ![img 10](screenshot/12.png)
 - Final result
-  ![img 12](screenshot/12.png)
+  ![img 12](screenshot/11.png)
