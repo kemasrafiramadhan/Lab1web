@@ -12,12 +12,12 @@
   ![img 3](screenshot/3.png)
 # 3. Kemudian atur atribut paragraf dan menambahkan sub judul
 - Gambar1
-  ![img 4](screenshot/5.png)
+  ![img 4](screenshot/4.png)
 - Gambar result
-  ![img 5](screenshot/4.png)
+  ![img 5](screenshot/6.png)
 # 4. Format teks pada paragraf tersebut
 - Gambar result
-  ![img 6](screenshot/6.png)
+  ![img 6](screenshot/5.png)
 # 5. Kemudian menyisipkan gambar kepada halaman web dan menambahkan judul
 - Gambar1
   ![img 7](screenshot/7.png)
